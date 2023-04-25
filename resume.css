@@ -1,0 +1,101 @@
+body{
+    background-color: #ffe4c4;
+}
+* {
+    max-width: 700px;
+    margin: auto;
+    margin-top: 8px; /* change this for pdf */
+    font-size: 17px;
+    font-family: Garamond, 'Times New Roman', Times, serif;
+
+  }
+.name{
+    font-size: 19px;
+    font-weight: bold;
+}
+.address{
+    font-size: 12px;
+}
+.Summary{
+    font-size: 15px;
+    margin-top: 10px;
+    font-weight: 700;
+    border-bottom: 2px solid #808080;
+    padding-bottom: 7px;
+}
+.summarycontent{
+    margin-top: 7px;
+    font-size: 13px;
+}
+.websites{
+    font-size: 15px;
+    margin-top: 12px;
+    font-weight: 700;
+    border-bottom: 2px solid #808080;
+    padding-bottom: 3px;
+}
+.websitescontent{
+    margin-top: 5px;
+    font-size: 13px;
+}
+.experience{
+    font-size: 15px;
+    margin-top: 10px;
+    font-weight: 700;
+    border-bottom: 2px solid #808080;
+    padding-bottom: 5px;
+}
+.WorkExperience1{
+    margin-top: 5px;
+    font-size: 13px;
+}
+.WorkExperience2{
+    margin-top: 5px;
+    font-size: 13px;
+}
+.WorkExperience3{
+    margin-top: 5px;
+    font-size: 13px;
+}
+.Skills{
+    font-size: 15px;
+    margin-top: 12px;
+    font-weight: 700;
+    border-bottom: 2px solid #808080;
+    padding-bottom: 5px;
+}
+.skillcontent{
+    margin-top: 5px;
+    font-size: 13px;
+}
+.Education{
+    font-size: 15px;
+    margin-top: 12px;
+    font-weight: 700;
+    border-bottom: 2px solid #808080;
+    padding-bottom: 5px;
+}
+.education1{
+    margin-top: 5px;
+    font-size: 13px;
+}
+.education2{
+    margin-top: 5px;
+}
+.education3{
+    font-size: 13px;
+}
+.education4{
+    margin-top: 5px;
+    font-size: 13px;
+}
+.education5{
+    font-size: 13px;
+}
+.Projects{
+    font-size: 15px;
+    font-weight: 700;
+    margin-top: 12px;
+    border-bottom: 2px solid #808080;
+    padding-bottom: 5px;
+}
